@@ -39,7 +39,6 @@ Rodar os testes: ```yarn test```
 ```should not be able to decrease a product amount when value is 1```
 
 - Deve ser possivel remover um produto do carrinho:
-
 ```shoud be able to remove a product```
     
 #### Testes hooks/useCart.tsx
